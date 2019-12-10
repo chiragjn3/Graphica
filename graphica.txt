@@ -1,0 +1,41 @@
+{
+	"System":"oc7",
+	"Client":"715",
+	"App":"PurchaseOrderItem-monitorPurDocItems",
+	"UserName":"PURCHASER",
+	"Password":"Welcome1!"
+} 
+
+{
+ "message": "{\"Next Delivery Status\":false,\"Plant\":false,\"Upcoming Deliveries\":false,\"Fully Delivered & Invoiced\":false,\"Display Currency\":\"USD\",\"Supplier\":false,\"Material\":false,\"Predicted Delivery\":false,\"Next Delivery Date\":false,\"Order Status\":false}"
+}
+
+
+
+
+
+{
+	"System":"oc7",
+	"Client":"715",
+	"App":"PurchaseRequisitionItem-monitor",
+	"UserName":"PURCHASER",
+	"Password":"Welcome1!"
+} 
+
+{
+    "message": "{\"Purchasing Organization\":false,\"Plant\":false,\"Delivery Date Interval\":false,\"Purchasing Group\":false,\"Requisition Status\":false,\"Display Currency\":\"USD\",\"Material\":false,\"Supplier\":false,\"Purchase Requisition Item\":false,\"Delivery Status\":false}"
+}
+
+
+
+
+{
+	"System":"oc7",
+	"Client":"715",
+	"App":"PurchaseOrderItem-monitorSupplierConfirmations",
+	"UserName":"PURCHASER",
+	"Password":"Welcome1!"
+}
+{
+    "message": "{\"Delivery Schedule Date\":false,\"Confirmation Category\":\"Order Acknowledgment (AB)\",\"Order Status ID\":false,\"Display Currency\":\"USD\",\"Purchasing Document\":false,\"Supplier\":false,\"Material\":false,\"Delivery Date\":false,\"Document Category\":false}"
+}
